@@ -9395,7 +9395,7 @@ module.exports = {"contact":{"text":"Let us connect!\nelvis.graho@gmail.com","em
 /***/ "oHWI":
 /***/ (function(module, exports) {
 
-module.exports = {"first":{"title":"My interests","interests":["sports","music","electric guitar","running","trying to list more hobbies by differentiating between sports and running"]},"second":{"title":"Check out my music","subtitle":"prepare your ears","music":[{"imgSrc":"http://i3.ytimg.com/vi/qhz4Ju7UT3I/maxresdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=qhz4Ju7UT3I","title":"Fill it","subtitle":"fffff"},{"imgSrc":"http://i3.ytimg.com/vi/TnhCLsqF8UE/maxresdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=TnhCLsqF8UE","title":"Decisions","subtitle":"fffff"},{"imgSrc":"http://i3.ytimg.com/vi/aeXX8IYZ1lU/maxresdefault.jpg","videoUrl":"https://www.youtube.com/watch?v=aeXX8IYZ1lU","title":"Hello","subtitle":"fffff"}]}}
+module.exports = {"first":{"title":"My interests","interests":["sports","music","electric guitar","running","trying to list more hobbies by differentiating between sports and running"]},"second":{"title":"Check out my music","subtitle":"prepare your ears","music":[{"imgSrc":"../../assets/images/fillit.jpg","videoUrl":"https://www.youtube.com/watch?v=qhz4Ju7UT3I","title":"Fill it","subtitle":"fffff"},{"imgSrc":"../../assets/images/decisions.jpg","videoUrl":"https://www.youtube.com/watch?v=TnhCLsqF8UE","title":"Decisions","subtitle":"fffff"},{"imgSrc":"../../assets/images/hello.jpg","videoUrl":"https://www.youtube.com/watch?v=aeXX8IYZ1lU","title":"Hello","subtitle":"fffff"}]}}
 
 /***/ }),
 
